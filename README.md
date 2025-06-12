@@ -1,4 +1,4 @@
-<h3 align="center">🎮 Proyect MARIO BROSS!! 🍄🕹️</h3>
+<h3 align="center">🎮 MARIO BROSS PROYECT!! 🍄🕹️</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxsc21pZWZ4Z3VzNjY2ZmYzZ2N6N2lmNWgzZG5ueXd1cW02NHlwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BQso6EW8N8CpDCpTe8/giphy.gif" alt="Mario caminando">
